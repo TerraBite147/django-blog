@@ -31,7 +31,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "8000-terrabite147-django-blog-87yomahdvf.us2.codeanyapp.com",
-    ".herokuapp.com"
+    ".herokuapp.com",
+    '127.0.0.1'
 ]
 
 
